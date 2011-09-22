@@ -1,9 +1,9 @@
-My custom configurations
-========================
+My dotconfig files etc...
+=========================
 
 I plan on putting all my custom configs, colors, bash shells, etc here.  Feel free to fork and customize.
 
-![Screenshot](https://github.com/dylang/my-custom-config/raw/master/screenshots/iterm2.png)
+![Screenshot](https://github.com/dylang/dotconfig/raw/master/screenshots/iterm2.png)
 
 Inspiration
 -----------
